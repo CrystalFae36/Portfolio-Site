@@ -6,3 +6,44 @@ h4{
     color:IndianRed;
     font-family:Helvetica;
 }
+h1{
+    font-family:Helvetica;
+    color:rgb(146, 42, 42)
+}
+.navi-bg{
+    background-color:IndianRed;
+    display:flex;
+    min-width:100vh;
+}
+
+.navi{
+    background-color:IndianRed;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.navi-link a{
+    color:white;
+    font-family:Helvetica;
+    text-decoration:none;
+    padding-left:25px;
+    padding-right:25px;
+
+}
+.welcome{
+    padding:10px
+}
+
+.center{
+    display:flex;
+    justify-content:center;
+}
+.homepg-txt{
+    padding:10px;
+}
+
+.footer{
+    display:flex;
+    background-color:lightcoral;
+    
+}
